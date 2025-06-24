@@ -5,8 +5,7 @@ A fun and interactive command-line **Python game** where you play Rock, Paper, S
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
-![Author:Shubh Mohan]
-
+<br>[Author:Shubh Mohan]
 ---
 
 ## 🎮 How to Play
